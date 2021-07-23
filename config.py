@@ -1,0 +1,9 @@
+url = "https://rentnals.000webhostapp.com/rasberry/api.php"
+authenticate = 0
+enginepin = 0
+doorpin = 0
+headpin = 0
+alarmpin = 0
+BatteryPercent = 0
+MotorPower = 0
+BatteryPower = 0
