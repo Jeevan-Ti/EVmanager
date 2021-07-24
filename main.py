@@ -13,4 +13,4 @@ GPIO.setup(config.alarmpin,GPIO.OUT)
 while True:
     functions.sendvdata()
     functions.getdata()
-    time.sleep(0.2)
+    time.sleep(3)
