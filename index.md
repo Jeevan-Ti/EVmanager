@@ -4,7 +4,7 @@ Remote monitoring, controlling and analysis of an EV involves some important cor
 
 This project has been taken up by me and my friend in college for developing an IoT based 3rd party three pronged sollution -motoring, controlling, analytics, that shall be easily integrated into any Electric Vehicle.
 
-Though the project is still under development, the functional aspects we are considering to design are:
+The functional aspects we consider designing are:
 ```markdown
 1. _EV analytics sollution viz. driving style classifier, power analyzer, service analyzer, maintainace tips etc._
 2. _Power & battery health monitor, service monitor, EV location tracker, EV status monitor etc_
@@ -22,5 +22,3 @@ Though the project is still under development, the functional aspects we are con
 ### Current Version
 &emsp; The current version os this project is being hosted @ [EVmanager](https://evmana.000webhostapp.com/).
 
-
-### `Content loading!!`
